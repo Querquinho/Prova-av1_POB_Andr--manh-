@@ -1,1 +1,3 @@
 produto.java;
+
+int num;
